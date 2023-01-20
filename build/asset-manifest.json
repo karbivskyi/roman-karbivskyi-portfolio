@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec3483a6.css",
+    "main.js": "/static/js/main.e9c6a2cd.js",
+    "static/media/zal.webp": "/static/media/zal.c629ae2f139ba12b3027.webp",
+    "static/media/mmx-russia.avif": "/static/media/mmx-russia.41ce7f1320e95f50f9e5.avif",
+    "static/media/man2.avif": "/static/media/man2.53bc2bb027a1b69a3b68.avif",
+    "static/media/latviancitizenship.avif": "/static/media/latviancitizenship.a692dbc26902ed4c890f.avif",
+    "static/media/lithuaniancitizenship.avif": "/static/media/lithuaniancitizenship.a862f5c0716d943bdfdc.avif",
+    "static/media/meteory_kronshtadt.avif": "/static/media/meteory_kronshtadt.c04403ca511b7662e341.avif",
+    "static/media/HTML5_widget.avif": "/static/media/HTML5_widget.4b6a24e41c22a989cbd5.avif",
+    "static/media/kontur-sb.avif": "/static/media/kontur-sb.9e5939ec570a40a94507.avif",
+    "static/media/wordpress.png": "/static/media/wordpress.5fde1bb11bc306e83c9f.png",
+    "static/media/services.svg": "/static/media/services.0d43785bd1f41e4d0371.svg",
+    "static/media/portfolio.svg": "/static/media/portfolio.bff8b39169bade93c32b.svg",
+    "static/media/testimonials.svg": "/static/media/testimonials.7b59b974ba9e396f2d8e.svg",
+    "static/media/contact.svg": "/static/media/contact.acdd342ba1db0f98c7cd.svg",
+    "static/media/about.svg": "/static/media/about.192e39ff229e6eb06083.svg",
+    "static/media/taras.avif": "/static/media/taras.12860071c4ef78affa77.avif",
+    "static/media/vivawallet_smartcheckout.avif": "/static/media/vivawallet_smartcheckout.dcadbfcc2115ab2c31c4.avif",
+    "static/media/testimonial-2.webp": "/static/media/testimonial-2.6f0c2676c242a0282408.webp",
+    "static/media/karbivskyi_roman_logo.svg": "/static/media/karbivskyi_roman_logo.537754c7959a459f8d0e9c7b02bdbff1.svg",
+    "index.html": "/index.html",
+    "main.ec3483a6.css.map": "/static/css/main.ec3483a6.css.map",
+    "main.e9c6a2cd.js.map": "/static/js/main.e9c6a2cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec3483a6.css",
+    "static/js/main.e9c6a2cd.js"
+  ]
+}
