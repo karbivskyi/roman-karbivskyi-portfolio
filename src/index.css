@@ -45,3 +45,7 @@
 html,body{
   overflow-x: hidden;
 }
+
+hover\:rotate-360:hover{
+  rotate: 360deg;
+}

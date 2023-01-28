@@ -11,7 +11,7 @@ export const Brands = () => {
           return (
             <div key={index}>
               <a href={brand.href} target="_blank" rel="noopener noreferrer"> 
-                <img className="scale-75 sm:scale-100" src={brand.img} alt="" />
+                <img className="scale-75 sm:scale-100 hover:rotate-3 hover:transition-all hover:duration-1000 hover:scale-110" src={brand.img} alt="" />
               </a>
             </div>
           );

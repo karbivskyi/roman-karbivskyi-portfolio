@@ -1,6 +1,4 @@
-import React from "react";
-
-// import components
+import React, {useEffect} from "react";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Brands from "./components/Brands";

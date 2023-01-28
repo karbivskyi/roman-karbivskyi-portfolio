@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec3483a6.css",
-    "main.js": "/static/js/main.e9c6a2cd.js",
+    "main.css": "/static/css/main.b307a9c0.css",
+    "main.js": "/static/js/main.b989caa6.js",
     "static/media/zal.webp": "/static/media/zal.c629ae2f139ba12b3027.webp",
     "static/media/mmx-russia.avif": "/static/media/mmx-russia.41ce7f1320e95f50f9e5.avif",
     "static/media/man2.avif": "/static/media/man2.53bc2bb027a1b69a3b68.avif",
@@ -18,14 +18,14 @@
     "static/media/about.svg": "/static/media/about.192e39ff229e6eb06083.svg",
     "static/media/taras.avif": "/static/media/taras.12860071c4ef78affa77.avif",
     "static/media/vivawallet_smartcheckout.avif": "/static/media/vivawallet_smartcheckout.dcadbfcc2115ab2c31c4.avif",
+    "index.html": "/index.html",
     "static/media/testimonial-2.webp": "/static/media/testimonial-2.6f0c2676c242a0282408.webp",
     "static/media/karbivskyi_roman_logo.svg": "/static/media/karbivskyi_roman_logo.537754c7959a459f8d0e9c7b02bdbff1.svg",
-    "index.html": "/index.html",
-    "main.ec3483a6.css.map": "/static/css/main.ec3483a6.css.map",
-    "main.e9c6a2cd.js.map": "/static/js/main.e9c6a2cd.js.map"
+    "main.b307a9c0.css.map": "/static/css/main.b307a9c0.css.map",
+    "main.b989caa6.js.map": "/static/js/main.b989caa6.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec3483a6.css",
-    "static/js/main.e9c6a2cd.js"
+    "static/css/main.b307a9c0.css",
+    "static/js/main.b989caa6.js"
   ]
 }

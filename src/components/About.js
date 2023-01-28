@@ -35,7 +35,7 @@ const About = () => {
               smooth={true}
               duration={500}
               to='contact'
-              className="btn btn-md bg-accent hover:bg-accent-hover transition-all cursor-pointer"
+              className="btn btn-md bg-accent hover:bg-accent-hover transition-all cursor-pointer hover:scale-110 duration-500"
             >
               Contact me
             </Link>

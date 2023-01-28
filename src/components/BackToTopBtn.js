@@ -25,7 +25,7 @@ const HalfDocumentHeight = DocumentHeight / 2;
     show && (
       <button
         onClick={() => scrollToTop()}
-        className="bg-accent w-12 h-12 hover:bg-accent-hover text-white rounded-full fixed right-24 bottom-24 cursor-pointer flex justify-center items-center transition-all"
+        className="bg-accent w-12 h-12 hover:bg-accent-hover text-white rounded-full fixed right-12 bottom-4 lg:bottom-24 cursor-pointer flex justify-center items-center transition-all hover:scale-125 duration-300"
       >
         <ChevronUpIcon className="w-6 h-6" />
       </button>

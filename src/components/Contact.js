@@ -81,7 +81,7 @@ if(!name || !email || !subject || !message ){
               const { icon, title, subtitle, description, link } = item;
               return (
                 <div className="flex flex-col lg:flex-row gap-x-4" key={index}>
-                  <div className="text-accent rounded-sm w-14 h-14 flex items-start justify-center mt-2 mb-4 lg:mb-0 text-2xl">
+                  <div className="text-accent rounded-sm w-14 h-14 flex items-start justify-center mt-2 mb-4 lg:mb-0 text-2xl hover:rotate-45 transition-all duration-500 -rotate-45">
                     {icon}
                   </div>
                   <div>
@@ -130,7 +130,7 @@ if(!name || !email || !subject || !message ){
               placeholder="Your message"
               id="message"
             ></textarea>
-            <button className="btn btn-lg bg-accent hover:bg-accent-hover">
+            <button className="btn btn-lg bg-accent hover:bg-accent-hover hover:scale-110 duration-500 transition-all">
               Send message
             </button>
           </form>

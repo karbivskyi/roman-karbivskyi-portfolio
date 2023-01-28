@@ -11,7 +11,7 @@ const Footer = () => {
             {social.map((item, index) => {
               const { href, icon } = item;
               return (
-                <a className="text-accent text-base" href={href} key={index}>
+                <a className="text-accent text-base hover:rotate-360 hover:transition-all hover:duration-500" href={href} key={index}>
                   {icon}
                 </a>
               );
@@ -19,7 +19,7 @@ const Footer = () => {
           </div>
 
           <div className="mx-auto lg:w-full flex flex-col justify-center items-center">
-            <img src={Logo} alt="" />
+            <img className="hover:scale-110 transition-transform duration-500" src={Logo} alt="" />
           </div>
 
           <p className="lg:w-1/3 lg:justify-end justify-center items-center text-center lg:text-left">&copy; {new Date().getFullYear()} Karbivskyi Roman. All rights reserved.</p>

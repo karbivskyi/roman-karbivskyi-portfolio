@@ -35,6 +35,15 @@ module.exports = {
         },
         paragraph: '#878e99',
       },
+      rotate: {
+        '360' : '360deg',
+      },
+      transitionDuration:{
+        '4000': '4000ms',
+      },
+      transitionProperty: {
+        'height': 'height'
+      },
     },
   },
   plugins: [],
