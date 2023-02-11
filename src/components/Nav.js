@@ -19,7 +19,7 @@ const Nav = () => {
                   rel="noreferrer noopener"
                   className="transition-all duration-300"
                 >
-                  {item.name}
+                  {item.name} test
                 </a>
               ) : (
                 <Link
