@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b307a9c0.css",
-    "main.js": "/static/js/main.b989caa6.js",
+    "main.css": "/static/css/main.4f392115.css",
+    "main.js": "/static/js/main.950cf443.js",
     "static/media/zal.webp": "/static/media/zal.c629ae2f139ba12b3027.webp",
     "static/media/mmx-russia.avif": "/static/media/mmx-russia.41ce7f1320e95f50f9e5.avif",
     "static/media/man2.avif": "/static/media/man2.53bc2bb027a1b69a3b68.avif",
@@ -21,11 +21,11 @@
     "index.html": "/index.html",
     "static/media/testimonial-2.webp": "/static/media/testimonial-2.6f0c2676c242a0282408.webp",
     "static/media/karbivskyi_roman_logo.svg": "/static/media/karbivskyi_roman_logo.537754c7959a459f8d0e9c7b02bdbff1.svg",
-    "main.b307a9c0.css.map": "/static/css/main.b307a9c0.css.map",
-    "main.b989caa6.js.map": "/static/js/main.b989caa6.js.map"
+    "main.4f392115.css.map": "/static/css/main.4f392115.css.map",
+    "main.950cf443.js.map": "/static/js/main.950cf443.js.map"
   },
   "entrypoints": [
-    "static/css/main.b307a9c0.css",
-    "static/js/main.b989caa6.js"
+    "static/css/main.4f392115.css",
+    "static/js/main.950cf443.js"
   ]
 }

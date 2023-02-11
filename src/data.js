@@ -72,6 +72,10 @@ export const navigation = [
     name: 'contact',
     href: 'contact',
   },
+  {
+    name: 'cv',
+    href: '/cv/Karbivskyi_Roman_resume.pdf',
+  },
 ];
 
 // social

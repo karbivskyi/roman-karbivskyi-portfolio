@@ -49,3 +49,6 @@ html,body{
 hover\:rotate-360:hover{
   rotate: 360deg;
 }
+input, textarea{
+  caret-color: rgb(172, 107, 52, 0.8);
+}
