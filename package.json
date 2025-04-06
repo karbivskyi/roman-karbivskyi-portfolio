@@ -2,6 +2,7 @@
   "name": "portfolio-website-main",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://supersonic2k22.github.io/react-portfolio3/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
@@ -46,6 +47,7 @@
     "@heroicons/react": "^1.0.6",
     "autoprefixer": "^10.4.2",
     "framer-motion": "^6.2.8",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.8",
     "react-icons": "^4.7.1",
     "react-scroll": "^1.8.6",
