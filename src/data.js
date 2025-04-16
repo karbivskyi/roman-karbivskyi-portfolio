@@ -74,7 +74,7 @@ export const navigation = [
   },
   {
     name: 'cv',
-    href: '/react-portfolio3/cv/Karbivskyi_Roman_resume.pdf',
+    href: '/roman-karbivskyi-portfolio/cv/Karbivskyi_Roman_resume.pdf',
   },
 ];
 
