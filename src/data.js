@@ -90,11 +90,11 @@ export const social = [
   },
   {
     icon: <FiGithub />,
-    href: 'https://github.com/supersonic2k22',
+    href: 'https://github.com/lilturtle-dev',
   },
   {
     icon: <RiTelegramLine />,
-    href: 'https://t.me/supersonic2k22',
+    href: '@lil_turtleee',
   },
 ];
 
