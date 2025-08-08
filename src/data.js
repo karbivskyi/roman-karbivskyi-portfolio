@@ -94,7 +94,7 @@ export const social = [
   },
   {
     icon: <RiTelegramLine />,
-    href: 'https://t.me/lil_turtle',
+    href: 'https://t.me/lil_turtleee',
   },
 ];
 

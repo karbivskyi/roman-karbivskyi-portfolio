@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/roman-karbivskyi-portfolio/static/css/main.0d563e83.css",
-    "main.js": "/roman-karbivskyi-portfolio/static/js/main.4b14c9ee.js",
+    "main.js": "/roman-karbivskyi-portfolio/static/js/main.28b05780.js",
     "static/media/zal.webp": "/roman-karbivskyi-portfolio/static/media/zal.c629ae2f139ba12b3027.webp",
     "static/media/mmx-russia.avif": "/roman-karbivskyi-portfolio/static/media/mmx-russia.41ce7f1320e95f50f9e5.avif",
     "static/media/man2.avif": "/roman-karbivskyi-portfolio/static/media/man2.53bc2bb027a1b69a3b68.avif",
@@ -22,10 +22,10 @@
     "static/media/testimonial-2.webp": "/roman-karbivskyi-portfolio/static/media/testimonial-2.6f0c2676c242a0282408.webp",
     "static/media/karbivskyi_roman_logo.svg": "/roman-karbivskyi-portfolio/static/media/karbivskyi_roman_logo.537754c7959a459f8d0e9c7b02bdbff1.svg",
     "main.0d563e83.css.map": "/roman-karbivskyi-portfolio/static/css/main.0d563e83.css.map",
-    "main.4b14c9ee.js.map": "/roman-karbivskyi-portfolio/static/js/main.4b14c9ee.js.map"
+    "main.28b05780.js.map": "/roman-karbivskyi-portfolio/static/js/main.28b05780.js.map"
   },
   "entrypoints": [
     "static/css/main.0d563e83.css",
-    "static/js/main.4b14c9ee.js"
+    "static/js/main.28b05780.js"
   ]
 }
