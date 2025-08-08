@@ -74,7 +74,7 @@ export const navigation = [
   },
   {
     name: 'cv',
-    href: '/roman-karbivskyi-portfolio/cv/Karbivskyi_Roman_resume.pdf',
+    href: '/roman-karbivskyi-portfolio/cv/Roman_Karbivskyi-Full_Stack_Developer_2025.pdf',
   },
 ];
 
