@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/roman-karbivskyi-portfolio/static/css/main.0d563e83.css",
-    "main.js": "/roman-karbivskyi-portfolio/static/js/main.ff061275.js",
+    "main.js": "/roman-karbivskyi-portfolio/static/js/main.214e7e61.js",
     "static/media/ti-disinfesta.jpg": "/roman-karbivskyi-portfolio/static/media/ti-disinfesta.0f4853e9da1604d4bf59.jpg",
     "static/media/generatepasswordtome.jpg": "/roman-karbivskyi-portfolio/static/media/generatepasswordtome.6355ea7eff46bd6e812f.jpg",
     "static/media/ti-riparostore.jpg": "/roman-karbivskyi-portfolio/static/media/ti-riparostore.94de44ce5d18f1bad717.jpg",
@@ -23,10 +23,10 @@
     "static/media/testimonial-2.webp": "/roman-karbivskyi-portfolio/static/media/testimonial-2.6f0c2676c242a0282408.webp",
     "static/media/karbivskyi_roman_logo.svg": "/roman-karbivskyi-portfolio/static/media/karbivskyi_roman_logo.537754c7959a459f8d0e9c7b02bdbff1.svg",
     "main.0d563e83.css.map": "/roman-karbivskyi-portfolio/static/css/main.0d563e83.css.map",
-    "main.ff061275.js.map": "/roman-karbivskyi-portfolio/static/js/main.ff061275.js.map"
+    "main.214e7e61.js.map": "/roman-karbivskyi-portfolio/static/js/main.214e7e61.js.map"
   },
   "entrypoints": [
     "static/css/main.0d563e83.css",
-    "static/js/main.ff061275.js"
+    "static/js/main.214e7e61.js"
   ]
 }
