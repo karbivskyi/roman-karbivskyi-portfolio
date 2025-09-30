@@ -20,7 +20,7 @@ import DribbbleBrandIcon from './assets/img/brands/dribbble.png';
 
 // projects images
 import Project1 from './assets/img/projects/ti-disinfesta.jpg';
-import Project2 from './assets/img/projects/generatepasswordtome.png';
+import Project2 from './assets/img/projects/generatepasswordtome.jpg';
 import Project3 from './assets/img/projects/kontur-sb.avif';
 import Project4 from './assets/img/projects/HTML5_widget.avif';
 import Project5 from './assets/img/projects/lithuaniancitizenship.avif';
