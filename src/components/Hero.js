@@ -29,7 +29,7 @@ const Hero = () => {
               to="contact"
               className="w-fit btn btn-md bg-accent hover:bg-accent-hover md:btn-lg transition-all cursor-pointer hover:scale-110 duration-500"
             >
-              Crete new project
+              Create new project
             </Link>
             </Typist>
           </div>
