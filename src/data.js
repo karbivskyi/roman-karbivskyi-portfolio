@@ -19,13 +19,14 @@ import BehanceBrandIcon from './assets/img/brands/behance.png';
 import DribbbleBrandIcon from './assets/img/brands/dribbble.png';
 
 // projects images
-import Project1 from './assets/img/projects/mmx-russia.avif';
-import Project2 from './assets/img/projects/meteory_kronshtadt.avif';
+import Project1 from './assets/img/projects/ti-disinfesta.jpg';
+import Project2 from './assets/img/projects/generatepasswordtome.png';
 import Project3 from './assets/img/projects/kontur-sb.avif';
 import Project4 from './assets/img/projects/HTML5_widget.avif';
 import Project5 from './assets/img/projects/lithuaniancitizenship.avif';
 import Project6 from './assets/img/projects/latviancitizenship.avif';
 import Project7 from './assets/img/projects/vivawallet_smartcheckout.avif';
+import Project8 from './assets/img/projects/ti-riparostore.jpg';
 
 // skills images
 import SkillImg1 from './assets/img/skills/html5.png';
@@ -127,16 +128,16 @@ export const projectsData = [
   {
     id: '1',
     image: Project1,
-    name: 'car rims MMX',
+    name: 'Ti Disinfesto',
     category: 'web development',
-    link: 'https://mmx-russia.ru/',
+    link: 'https://tidisinfesto.it/',
   },
   {
     id: '2',
     image: Project2,
-    name: 'Meteor boat travel',
+    name: 'Generate Password To Me',
     category: 'web development',
-    link: 'https://ostrovfortov.com/',
+    link: 'https://www.generatepasswordto.me/',
   },
   {
     id: '3',
@@ -171,6 +172,13 @@ export const projectsData = [
     name: 'Viva Wallet Smart Checkout',
     category: 'plugins',
     link: 'https://www.drupal.org/project/commerce_viva',
+  },
+    {
+    id: '8',
+    image: Project8,
+    name: 'TI Riparo Store',
+    category: 'web development',
+    link: 'https://www.tiriparostore.it/',
   },
 ];
 
